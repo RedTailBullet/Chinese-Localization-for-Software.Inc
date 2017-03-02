@@ -87,8 +87,8 @@
 		<Item Name="MainDistribution">发行渠道 Distribution channels </Item>
 		<Item Name="MainDistributionDesc">管理你的发行渠道 Manage how you want to distribute your software </Item>
 		<Item Name="Settings">设定 Settings </Item>
-		<Item Name="LowerWalls">开/关墙壁 Toggle walls </Item>
-		<Item Name="LowerWallsDesc">隐藏所有墙壁 Lower all walls</Item>
+		<Item Name="LowerWalls">显示/隐藏墙壁</Item>
+		<Item Name="LowerWallsDesc">隐藏所有墙壁</Item>
 		<Item Name="HideLamps">Toggle lamps</Item>
 		<Item Name="HideLampsDesc">显示/隐藏所有安装在天花板的家具 Toggle all furniture that is stuck to the ceiling</Item>
 		<Item Name="RoomLabels">Room labels</Item>
@@ -97,15 +97,15 @@
 		<Item Name="WireModeDesc">链接你的服务器们 Use this to connect your servers </Item>
 		<Item Name="Dataoverlay">Data overlay</Item>
 		<Item Name="DataoverlayDesc">Click here to make room color reflect the current status of the room</Item>
-		<Item Name="BuildMode">建造模式 Build mode </Item>
-		<Item Name="BuildModeDesc">Click here to toggle build mode, in which you can construct and furnish your office(s) and build roads and parking</Item>
+		<Item Name="BuildMode">建造模式</Item>
+		<Item Name="BuildModeDesc">点击来打开/关闭建造模式。在建造模式中，您可以建造并装修您的办公室、建造道路和停车场。</Item>
 		<Item Name="Monthly profits">月利润 Monthly profits </Item>
 		<Item Name="SkipTime">跳过无用时间 Skip unused time </Item>
 		<Item Name="SkipTimeDesc">如果没人在公司里，将会跳跃到第一个员工上班 If no one is around, you can skip until someone arrives </Item>
-		<Item Name="Contruct">建造 Construct </Item>
-		<Item Name="ContructHint">建造房间、门、电梯和窗户 Build rooms, doors, elevators and windows </Item>
-		<Item Name="Furnish">装修 Furnish </Item>
-		<Item Name="FurnishHint">装修你的房间 Put various furniture in your rooms to make them functional </Item>
+		<Item Name="Contruct">建造</Item>
+		<Item Name="ContructHint">建造房间、门、电梯和窗户</Item>
+		<Item Name="Furnish">家具</Item>
+		<Item Name="FurnishHint">在房间内放置家具。</Item>
 		<Item Name="Roads">道路 Roads </Item>
 		<Item Name="RoadsHint">建造道路，让你的员工能更方便地通勤 Build roads and parking lots to make commuting to work faster for your employees </Item>
 	</MainPanel>
@@ -222,7 +222,7 @@
 		<Item Name="EULA">EULA</Item>
 	</WindowTitles>
 	<DesignWindow>
-		<Item Name="Action">Action</Item>
+		<Item Name="Action">动作</Item>
 		<Item Name="In-house">In-house</Item>
 		<Item Name="Add">添加</Item>
 		<Item Name="Remove">移除</Item>
@@ -578,7 +578,7 @@ If you want to split a room you have to build from wall to wall</Item>
 		<Item Name="BulldozeMsg">您确认您要拆除{0}个房间吗？</Item>
 		<Item Name="BulldozeMsg2">拆除{0}个房间</Item>
 		<Item Name="CannotBulldozeSupport">One or more rooms are used for support and cannot be destroyed</Item>
-		<Item Name="MissingSaveContinue">在继续游戏前您需要先保存游戏</Item>
+		<Item Name="MissingSaveContinue">没有存档</Item>
 		<Item Name="SaveGameSuccess">游戏保存成功</Item>
 		<Item Name="SaveGameSuccessTitle">成功</Item>
 		<Item Name="NoStockInterest">Nobody is interested in this stock</Item>
@@ -660,30 +660,30 @@ Do you want to take a loan worth {1} to avoid going bankrupt?</Item>
 		<Item Name="Decoration">Decoration</Item>
 	</BuildMode>
 	<RightClick>
-		<Item Name="ActionPair">Assign furniture to employee</Item>
-		<Item Name="ActionDefault Style">Set as default style</Item>
+		<Item Name="ActionPair">给员工分配家具</Item>
+		<Item Name="ActionDefault Style">设置为默认风格</Item>
 		<Item Name="ActionUnify Style">Unify style of selected elements</Item>
-		<Item Name="ActionRoom Color">Room colors</Item>
-		<Item Name="ActionEducate">Educate employee</Item>
-		<Item Name="ActionDismiss">Dismiss employee</Item>
-		<Item Name="ActionSell">Sell furniture</Item>
-		<Item Name="ActionDestroy">Destroy room</Item>
-		<Item Name="ActionChange Team">Switch team</Item>
-		<Item Name="ActionLimit Use">Limit room usage</Item>
-		<Item Name="ActionSelect Building">Select entire building</Item>
-		<Item Name="ActionChange Role">Change employee role</Item>
-		<Item Name="ActionSend home">Send employee home</Item>
-		<Item Name="ActionFurniture color">Furniture color</Item>
-		<Item Name="ActionTypes in Room">Select furniture types in selected rooms</Item>
-		<Item Name="ActionDetails">Employee details</Item>
-		<Item Name="ActionChange Salary">Change employee salary</Item>
-		<Item Name="ActionSelect Team">Select entire team</Item>
-		<Item Name="ActionSelect Owned">Select furniture assigned to employee</Item>
-		<Item Name="ActionSelect Staff">Select employees in room</Item>
-		<Item Name="ActionUnpair">Unassign furniture</Item>
-		<Item Name="ActionPair Use">Assign the furniture being used by employee</Item>
-		<Item Name="ActionUpgrade">Upgrade furniture to next tier</Item>
-		<Item Name="ActionMove">Move furniture</Item>
+		<Item Name="ActionRoom Color">房间颜色</Item>
+		<Item Name="ActionEducate">教育员工</Item>
+		<Item Name="ActionDismiss">解雇员工</Item>
+		<Item Name="ActionSell">出售家具</Item>
+		<Item Name="ActionDestroy">拆除房间</Item>
+		<Item Name="ActionChange Team">切换小组</Item>
+		<Item Name="ActionLimit Use">限制房间使用</Item>
+		<Item Name="ActionSelect Building">选择整栋楼</Item>
+		<Item Name="ActionChange Role">更改员工角色</Item>
+		<Item Name="ActionSend home">让员工回家</Item>
+		<Item Name="ActionFurniture color">家具颜色</Item>
+		<Item Name="ActionTypes in Room">所有家具</Item>
+		<Item Name="ActionDetails">员工详情</Item>
+		<Item Name="ActionChange Salary">更改员工工资</Item>
+		<Item Name="ActionSelect Team">选择整组</Item>
+		<Item Name="ActionSelect Owned">把选中家具分配给员工</Item>
+		<Item Name="ActionSelect Staff">选择房间内的员工</Item>
+		<Item Name="ActionUnpair">未分配的家具</Item>
+		<Item Name="ActionPair Use">分配家具给正在使用的员工</Item>
+		<Item Name="ActionUpgrade">升级家具</Item>
+		<Item Name="ActionMove">移动家具</Item>
 	</RightClick>
 	<ProductWindow>
 		<Item Name="ProductChooseGeneric">Choose {0}</Item>
@@ -793,7 +793,7 @@ Right click to deselect and cancel.</Item>
 	<Item Name="SaveName">Enter save name...</Item>
 	<Item Name="Save">Save</Item>
 	<Item Name="Load">Load</Item>
-	<Item Name="Apply">Apply</Item>
+	<Item Name="Apply">应用</Item>
 	<Item Name="New team">New team</Item>
 	<Item Name="Team name">Team name</Item>
 	<Item Name="Enable">Enable</Item>
@@ -807,12 +807,12 @@ Right click to deselect and cancel.</Item>
 	<Item Name="Base skill">基础能力 Base skill</Item>
 	<Item Name="Marketing">Marketing</Item>
 	<Item Name="Support">Support</Item>
-	<Item Name="Lead">领导 Lead</Item>
+	<Item Name="Lead">领导</Item>
 	<Item Name="Leader">Leader</Item>
-	<Item Name="Designer">设计师 Designer</Item>
-	<Item Name="Programmer">码农 Programmer</Item>
-	<Item Name="Artist">艺术家 Artist</Item>
-	<Item Name="Marketer">运营者 Marketer</Item>
+	<Item Name="Designer">设计师</Item>
+	<Item Name="Programmer">码农</Item>
+	<Item Name="Artist">艺术家</Item>
+	<Item Name="Marketer">市场经理</Item>
 	<Item Name="Take any job">Take any job</Item>
 	<Item Name="Any role">Any role</Item>
 	<Item Name="Any">任何 Any</Item>
@@ -824,9 +824,9 @@ Right click to deselect and cancel.</Item>
 	<Item Name="Fire">开除 Fire</Item>
 	<Item Name="Select all">全选 Select all</Item>
 	<Item Name="Educate">教育 Educate</Item>
-	<Item Name="Interior">内部 Interior</Item>
-	<Item Name="Exterior">外部 Exterior</Item>
-	<Item Name="Floor">地板 Floor</Item>
+	<Item Name="Interior">内部</Item>
+	<Item Name="Exterior">外部</Item>
+	<Item Name="Floor">地板</Item>
 	<Item Name="Usage">Usage</Item>
 	<Item Name="None">没有 None</Item>
 	<Item Name="Primary">主要 Primary</Item>
@@ -840,7 +840,7 @@ Right click to deselect and cancel.</Item>
 	<Item Name="SearchBar">输入搜索关键字 Type to search...</Item>
 	<Item Name="Inventor">仓库 Inventor</Item>
 	<Item Name="Bought">买了的 Bought</Item>
-	<Item Name="Color">颜色 Color</Item>
+	<Item Name="Color">上色</Item>
 	<Item Name="NetProfit">Net profit</Item>
 	<Alpha4.1>
 		<Item Name="AreYouSure">你确认你想</Item>
@@ -1577,7 +1577,7 @@ Make sure you have one for each cook and at least one fridge and serving tray</I
 		<Item Name="Capacity">Capacity</Item>
 		<Item Name="Anchor grid">Anchor grid</Item>
 		<Item Name="Reset grid">Reset grid</Item>
-		<Item Name="Feedback">Feedback</Item>
+		<Item Name="Feedback">反馈</Item>
 		<Item Name="E-mail">E-mail</Item>
 		<Item Name="Message">Message</Item>
 		<Item Name="Files">Files</Item>

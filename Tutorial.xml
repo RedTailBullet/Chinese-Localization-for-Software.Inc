@@ -26,65 +26,65 @@ Even the best programmer may not uncover all bugs and you'll have to deal with t
 Press "Release" when you are ready.
 
 Press "End" to finish the tutorial.</Message>
-	<Message id="BUILD MODE1">Start by entering "Build mode" by clicking the Build-button.</Message>
-	<Message id="BUILD MODE2">The game is always paused in build mode.
+	<Message id="BUILD MODE1">按下“建造”按钮打开“建造模式”来开始。</Message>
+	<Message id="BUILD MODE2">在“建造模式”中，游戏将会暂停。
 
-Let's start by building a room. You have two choices for how you want to build a room.
+让我们先来建造一个房间。您将有两种方法来建造一个房间。
 
-Click on the "Construct rectangle room" button in the build panel to build a simple rectangle room or click the "Construct room" button to build rooms in any shape you want, one wall at a time.
+您可以点击“建造矩形房间”按钮来建造一个标准的矩形房间或点击“建造房间”按钮来建造墙面，从而建造任意形状的房间。
 
-You can also use the "Construct room" option to split rooms into two separate rooms, by simply building a wall through a room.</Message>
-	<Message id="BUILD MODE3">Now click somewhere inside the area you own, which has a grid, and then click somewhere else to finish your new room. Keep an eye on the cost while moving the cursor.</Message>
-	<Message id="BUILD MODE4">You might have noticed that you were limited to the grid when you built your room. You can change the grid and building angles if you want by using this panel. This might come in handy if you want to build tables along a diagonal wall for example.
+您也可以在“建造房间”时把一个房间分为两个。</Message>
+	<Message id="BUILD MODE3">您可以在由方格标出的土地上兴建您的房间。请注意房间建造的成本。</Message>
+	<Message id="BUILD MODE4">您可能注意到了您建造房间时受到了方格的限制。您可以通过这些选项来更改方格的设置从而建造更加复杂的多边形。当您打算靠着一堵斜角墙放置家具时，调整这些选项将十分有用。
 
-Click Continue when you are ready.</Message>
-	<Message id="BUILD MODE5">You can move up and down floors by pressing Q and E.
+当准备好继续后点击“继续”按钮。</Message>
+	<Message id="BUILD MODE5">您可以用Q和E在上、下楼层间切换。
 
-Now let's add windows and doors. You can either select a category or search for "window" or "door" in the build panel.</Message>
-	<Message id="BUILD MODE6">Notice how the room lights up when you add windows, make sure to add enough so that your employees can see.
+现在我们来添加门和窗户把。您可以在类别中筛选门和窗户或直接在搜索框中搜索他们。</Message>
+	<Message id="BUILD MODE6">当您放置窗户时，您的房间也将变得明亮。请保证您的房间拥有足够的窗户来让您的员工不至于抹黑办公。
 
-You can inspect lighting, environment, temperature and noise conditions by clicking on and selecting the room.</Message>
-	<Message id="BUILD MODE7">You can also change the color of your rooms and furniture.
+通过选择房间，您可以查看房间的环境、光照、温度和噪声情况。</Message>
+	<Message id="BUILD MODE7">您也可以改变房间和家具的颜色。
 
-Try changing the color of your room by right clicking it and click the "Room colors" button that resembles a brush.</Message>
-	<Message id="BUILD MODE8">You can change the color of multiple things at once by shift clicking and selecting the objects before your open the color window. The color window will suggest colors that are currently in use.
+请尝试在房间上点击右键，选择图标为一个画笔的“房间颜色”按钮。</Message>
+	<Message id="BUILD MODE8">在打开上色面板前，您可以通过按住Shift并点击多个物品来同时改变他们的颜色。上色面板会默认显示他们当前的颜色。
 
-If you like the style you have given a room or piece of furniture, you can set it as default in the right click context menu.
+如果您很喜欢您设计的这个房间的颜色，您可以在右键菜单中把它设置为默认设置。
 
-Click Apply when you are ready or close the window if you want to cancel your changes.</Message>
-	<Message id="BUILD MODE9">Let's put some furniture in your new room.
+若要应用颜色设置，点击“应用”按钮。若想取消颜色设置，请直接关闭上色面板。</Message>
+	<Message id="BUILD MODE9">让我们给房间放点新家具吧。
 
-Build a new table by clicking on the "Furnish" button or searching for "table".</Message>
-	<Message id="BUILD MODE10">Now add a chair. Chairs can only be added to tables.
+点击“装修”按钮或搜索“table”来为房间添加一张桌子。</Message>
+	<Message id="BUILD MODE10">现在，添加一个椅子。椅子只能放在桌子边上。
 
-Note that furniture with multiple tiers, like chairs, can be upgraded after they have been placed. You can use the right click context menu to easily upgrade a lot of furniture at once, by selecting all furniture of the same type in the selected rooms for example.</Message>
-	<Message id="BUILD MODE11">Finally add a computer. When you add a computer click and hold where you want to add it and drag the mouse in the direction you want it to face, finally, release the mouse button to place it.
+注意，拥有多个层次的家具，比如椅子，能够进行升级。您能够在房子的右键菜单中选择“所有家具”来选择房间中的所有家具，并在右键菜单中一次性升级所有家具。</Message>
+	<Message id="BUILD MODE11">最后，添加一台电脑。按住左键并拖曳可以调整电脑的朝向。
 
-Computers have to sit on top of a table and face a chair.</Message>
-	<Message id="BUILD MODE12">When you put tables next to eachother they will be grouped together if they don't have anything on top of them. Tables that are grouped together can be used for meetings. To see which tables are grouped, just highlight one table and it's group will be highlighted in blue.
+电脑必须放在桌子上并朝向一个椅子。</Message>
+	<Message id="BUILD MODE12">当你把多张桌子放到一起（桌子上不能有东西）时，这些桌子会组合起来变成大桌子。这些大桌子很适合作为会议桌。要查看组合的桌子，选中一个桌子，与之组合的桌子会以蓝色标出。
 
-Click "Continue" to advance.</Message>
-	<Message id="BUILD MODE13">Your founder does not get tired, hungry, cold or needs to use the toilet, but when you hire new employees they will. So make sure to add at least one fridge, a coffee machine, a radiator, a ventilator and a separate toilet room before you hire new employees.
+点击“继续”按钮以继续。</Message>
+	<Message id="BUILD MODE13">您自己的角色不会觉得累、饿、冷、需要去厕所等。但是你的其他员工会有这些需求。因此在您雇佣新员工前请保证公司内至少由一个冰箱、一个咖啡机、一个暖气、一个换气扇和一个隔开的厕所。
 
-Click "Continue" to advance.</Message>
-	<Message id="BUILD MODE14">Now, let's assign the room to a team, employees from other teams may then not use it or even pass through it.
+点击“继续”按钮以继续。</Message>
+	<Message id="BUILD MODE14">现在，让我们把这个房间分配给一个小组。房间被分配给某个小组后，其他小组的员工就不会进入这个房间了。
 
-Right click your new room and choose "Switch team", which resembles a circle with arrows. A window will appear, click on "Core" to assign the room to the Core team.</Message>
-	<Message id="BUILD MODE15">Remember to assign employees to a team as well. You can do this either by right clicking on an employee and choosing "Switch team" or from the employees window. All employees are automatically assigned to a team, if there is only one team in your company.
+右键点击您的房间并选择“切换小组”。在打开的窗口内选择“核心”来把这个房间分配给核心小组。</Message>
+	<Message id="BUILD MODE15">记住给把员工分配给小组。 您可以右键点击员工并选择“切换小组”或在员工管理页面更改员工小组。当公司内只有一个小组时，所有员工都会被自动分配到该小组。
 
-Holding shift while clicking on objects, rooms or employees will allow you to select several at once, you can then right click anywhere to see the actions menu.
+按住Shift并能让你一次选中多个物品、房间和员工。选中后您可以在任意地方右键点击来打开动作菜单。
 
-Try selecting at least 2 things in the game.</Message>
-	<Message id="BUILD MODE16">If you ever want to merge two rooms, just hold shift and click to select the rooms you want to merge, right click and then choose the "Merge rooms" option from the context menu.
+请尝试选中至少两件物品。</Message>
+	<Message id="BUILD MODE16">如果您想合并两个房间，请按住Shift并选中您想合并的房间，右键点击并在动作菜单中选择“合并房间”。
 
-Now, let's exit Build mode.</Message>
-	<Message id="BUILD MODE17">When you are ready, open the employees window to start managing your employees.</Message>
-	<Message id="CONTRACTS1">Start by opening the contract window.</Message>
-	<Message id="CONTRACTS2">This is a list of available contracts. New contracts will be added as older ones are completed.
+现在，让我们退出“建造模式”。</Message>
+	<Message id="BUILD MODE17">当你准备好后，请点击员工管理来开始管理你的员工。</Message>
+	<Message id="CONTRACTS1">打开“工作合同”窗口来开始。</Message>
+	<Message id="CONTRACTS2">这里列举了所有的合同。新合同将会在现有合同被完成后添加。
 
-Contracts have an upfront payment you will receive for accepting the work, and a bigger payment for completing it. There will be big penalties for not finishing the contract and any unfixed bugs. Breaking the quality or time agreement will result in a lower payout.
+每个合同将会有先期付款，先期付款将在您接下合同时付给您。而当您完成合同后会收到尾款。若您未完成合同或软件出现了未修复的Bug，您将会被罚款。低于要求的质量或超过时间都会导致最终收入减少。
 
-Browse the contracts now and accept one you think sounds fair.</Message>
+浏览并选择一个您认为可以接收的合同吧！</Message>
 	<Message id="CUSTOMIZATION1">欢迎来到捏人页面。按下“继续”来继续教程或按下“取消”来关闭教程。</Message>
 	<Message id="CUSTOMIZATION2">请给你的公司取个名字。</Message>
 	<Message id="CUSTOMIZATION3">接下来给你的公司元老取个名字。</Message>
@@ -357,11 +357,11 @@ Make sure to quickly assign a team to this work item or it will affect your comp
 您可以通过点击并拖曳标题栏来移动此窗口。
 
 点击“继续”来继续教程</Message>
-	<Message id="WELCOME2">您可以通过WASD来，按住CTRL和鼠标右键并拖曳及把你的鼠标移动到镜头边缘（在选项中打开画面边缘移动）来移动镜头。
+	<Message id="WELCOME2">您可以通过WASD、按住CTRL和鼠标右键并拖曳或把你的鼠标移动到镜头边缘（在选项中打开画面边缘移动）来移动镜头。
 
 您可以按住鼠标中键并移动鼠标或使用上、下、左、右箭头键来旋转镜头。
 
-您可以使用鼠标滚轮或“+”、“-”键来拉近或拉远镜头。</Message>
+您可以使用鼠标滚轮或小键盘上的“+”、“-”键来拉近或拉远镜头。</Message>
 	<Message id="WELCOME3">您可以按下ESC或画面右下角的齿轮图标来打开游戏选单，并在选项菜单中更改按键设置。</Message>
 	<Message id="WELCOME4">这里是您公司当前的资金状况。</Message>
 	<Message id="WELCOME5">这里的星星是您公司的声望，下面的数字是您公司的粉丝数。
