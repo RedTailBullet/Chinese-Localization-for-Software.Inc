@@ -182,7 +182,7 @@
 		<Item Name="Date">日期 Date </Item>
 		<Item Name="Money">钱 Money </Item>
 		<Item Name="Products">产品 Products </Item>
-		<Item Name="Employees">员工</Item>
+		<Item Name="Employees">员工管理</Item>
 		<Item Name="Enabled">开启</Item>
 		<Item Name="Toggle">开/关Toggle</Item>
 		<Item Name="Active">启动Active</Item>
@@ -800,7 +800,7 @@ Right click to deselect and cancel.</Item>
 	<Item Name="Accept work">接收工作</Item>
 	<Item Name="Specialization">专长</Item>
 	<Item Name="Skill">能力</Item>
-	<Item Name="Traits">Traits</Item>
+	<Item Name="Traits">特点</Item>
 	<Item Name="Design">设计</Item>
 	<Item Name="Code">打码</Item>
 	<Item Name="Art">艺术</Item>
@@ -814,13 +814,13 @@ Right click to deselect and cancel.</Item>
 	<Item Name="Artist">艺术家</Item>
 	<Item Name="Marketer">市场经理</Item>
 	<Item Name="Take any job">Take any job</Item>
-	<Item Name="Any role">Any role</Item>
+	<Item Name="Any role">任意角色</Item>
 	<Item Name="Any">任何 Any</Item>
 	<Item Name="All">所有 All</Item>
 	<Item Name="Work affectors">Work affecters</Item>
 	<Item Name="Feature">功能 Feature</Item>
-	<Item Name="Change team">更改小组 Change team</Item>
-	<Item Name="Change roles">更改角色 Change roles</Item>
+	<Item Name="Change team">更改小组</Item>
+	<Item Name="Change roles">更改角色</Item>
 	<Item Name="Fire">开除 Fire</Item>
 	<Item Name="Select all">全选 Select all</Item>
 	<Item Name="Educate">教育 Educate</Item>

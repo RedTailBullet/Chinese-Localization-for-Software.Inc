@@ -216,39 +216,39 @@ You can choose to either educate your employee in a skill, specialization or you
 There is a limit to the skills and specializations of your employees, so if you pick 3 months of courses for an employee with a high skilll level, you'll be throwing money out the window.</Message>
 	<Message id="EDUCATION4">Then pick what role you want to educate your employees in.</Message>
 	<Message id="EDUCATION5">If you picked Designer, Programmer or Artist, you should pick what specialization you want them to improve in. Click "Start education" when you are ready to send your employee off.</Message>
-	<Message id="EMPLOYEES1">Begin by opening the employee window.</Message>
-	<Message id="EMPLOYEES2">This is a list of all your employees, which details their status.
+	<Message id="EMPLOYEES1">打开员工管理页面以开始</Message>
+	<Message id="EMPLOYEES2">这里列举了您所有的员工以及他们的状态。
 
-You can check any of the options in the top bar to get more details on all your employees.</Message>
-	<Message id="EMPLOYEES3">When you select an employee in the list, they will be selected in the game and you can get details on their specializations at the bottom of the window.
+通过这些选项您可以设定列表中现实的信息。</Message>
+	<Message id="EMPLOYEES3">当您在列表中选中一名员工时，他们也会在游戏中被选中，您可以在窗口下方查看他们的专长。
 
-Try selecting an employee now.</Message>
-	<Message id="EMPLOYEES4">You can select several employees by holding down shift.
+现在请试试选中一名员工吧。</Message>
+	<Message id="EMPLOYEES4">按住Shift可以同时选中多名员工。
 
-Now, right click anywhere to bring up the actions menu for the selected employee. Click the "Change team" button and select "Core" in the window that appears.</Message>
-	<Message id="EMPLOYEES5">Now, right click anywhere and click the "Change Role" button, which resembles a wrench.</Message>
-	<Message id="EMPLOYEES6">Clicking on a role in the "Select role" window will assign the employee to that role. You can also click the "Any role" button to let your employee act in any role.
+现在，在任意地方点击右键来打开该员工的“动作菜单”。选择“切换小队”并在打开的菜单中选择中“Core”来把该员工分配到“Core”小队。</Message>
+	<Message id="EMPLOYEES5">现在，在任意地方右键点击打开“动作菜单”，选择“更改员工角色”。</Message>
+	<Message id="EMPLOYEES6">在“更改角色”窗口中点击角色将为员工指定角色。您也可以选择“任意角色”来让该员工可以作为任意角色。
 
-Note that "Lead" can not be chosen unless the employee is assigned to a team and an employee can not be a Leader while in "Any role".
+请注意，除非员工被分配到某个组里，否则员工不能被指定为“领导”。而属于“任意角色”的员工不能作为组内领导。
 
-Close the "Select role" window and click "Continue" to advance the tutorial.</Message>
-	<Message id="EMPLOYEES7">With your employee selected, right-click anywhere once again to bring up the actions menu and select "Details", which resembles a single person.</Message>
-	<Message id="EMPLOYEES8">Here you can see the stats of your employee.
+关闭“更改角色”窗口并点击“继续”来继续教程。</Message>
+	<Message id="EMPLOYEES7">当选中员工时，在任意位置点击右键打开“动作菜单”并选择“员工详情”。</Message>
+	<Message id="EMPLOYEES8">您可以在这里查看员工的状态。
 
-In top left corner you can see your employee's personality traits, and below that, your employee's skills in each role. Clicking a role will also allow you to assign the employee to that role.</Message>
-	<Message id="EMPLOYEES9">In bottom left part of the window you can see you employee's specializations, which shows how educated your employee is in different subjects.
+在左上方您可以看到您员工的特点。在特点下面是您员工在各种角色的能力值。点击一个角色将会把该员工分配到该角色。</Message>
+	<Message id="EMPLOYEES9">在左下角您可以查看员工的专长。您也可以通过这里看出您员工的受教育程度。
 	
-The "base skill" is your employee's overall skill in that role.</Message>
-	<Message id="EMPLOYEES10">In top right corner of the window you can see your employee's traits. These traits are controlled by your employee's two personality traits.
+“基础能力”是您员工在这些方面的总体能力。</Message>
+	<Message id="EMPLOYEES10">在右上角是员工的特点，这些特点由员工的两个个性控制。
 
-You can hover over each of the three traits to see how they affect the employee.</Message>
-	<Message id="EMPLOYEES11">In the center right part of the window, you can see the latest thoughts of your employee, this will tell you how happy they are with their place of work.</Message>
-	<Message id="EMPLOYEES12">Finally, in the bottom right part of the window, you can see what is currently affecting your employee's effectiveness when working.
+您可以把鼠标悬浮在各个特点上查看它们对员工的影响。</Message>
+	<Message id="EMPLOYEES11">在右边中央的位置会显示员工最近的想法。这些想法将告诉你这名员工对当前工作环境的满意程度。</Message>
+	<Message id="EMPLOYEES12">最后，在窗口右下角，您可以查看当前有什么在影响员工的工作。
 	
-You can use this to see what is wrong if your employees suddenly start working slowly.</Message>
-	<Message id="EMPLOYEES13">In the beginning of the game you will need to make some quick cash.
+若您的员工突然开始消极怠工，您可以在这里查看发生了什么问题。</Message>
+	<Message id="EMPLOYEES13">在游戏开始时你需要快速地赚一些钱。
 
-Bring up the Contract window to get some work.</Message>
+打开“工作合同”窗口来接点工作吧！</Message>
 	<Message id="HIRING1">Start by opening the hire window</Message>
 	<Message id="HIRING2">Before you can hire anyone, you need to put out a search for employees. Start by choosing which role your new employee should be good at.</Message>
 	<Message id="HIRING3">If you've picked a programmer, artist or designer, you should also pick a specialization you want them to be good at.</Message>
