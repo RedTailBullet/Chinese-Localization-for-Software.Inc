@@ -85,43 +85,43 @@ Now, let's exit Build mode.</Message>
 Contracts have an upfront payment you will receive for accepting the work, and a bigger payment for completing it. There will be big penalties for not finishing the contract and any unfixed bugs. Breaking the quality or time agreement will result in a lower payout.
 
 Browse the contracts now and accept one you think sounds fair.</Message>
-	<Message id="CUSTOMIZATION1">Welcome to the customization screen. Press "Continue" to advance the tutorial or "Cancel" to exit.</Message>
-	<Message id="CUSTOMIZATION2">Begin by picking a name for your company.</Message>
-	<Message id="CUSTOMIZATION3">Then pick a name for your founder in the game.</Message>
-	<Message id="CUSTOMIZATION4">And a gender.</Message>
-	<Message id="CUSTOMIZATION5">You can use these buttons to choose an aspect of your founder's appearance that you want to change.
+	<Message id="CUSTOMIZATION1">欢迎来到捏人页面。按下“继续”来继续教程或按下“取消”来关闭教程。</Message>
+	<Message id="CUSTOMIZATION2">请给你的公司取个名字。</Message>
+	<Message id="CUSTOMIZATION3">接下来给你的公司元老取个名字。</Message>
+	<Message id="CUSTOMIZATION4">选择一个性别。</Message>
+	<Message id="CUSTOMIZATION5">通过这些选项你能更改角色的外貌和着装。
 	
-You can change the shape of the face and eyebrows by clicking the first button, and the last button allows you to pick the colors of the skin, hair, accessories and clothes of your founder.</Message>
-	<Message id="CUSTOMIZATION7">Here you can pick you founder's personality traits.
+</Message>
+	<Message id="CUSTOMIZATION7">在这里您可以选择角色的个性。
 
-You can choose two traits, which will affect your founder's behavior(leadership, ability to learn and laziness) and inter-office relationships.</Message>
-	<Message id="CUSTOMIZATION8">Here you can pick you founder's skill points and specializations, which will affect the performance of your founder.
+您可以选择两个个性，个性将会影响角色的行为（领导力、学习能力和懒惰程度）和人际关系</Message>
+	<Message id="CUSTOMIZATION8">在这里您可以选择角色的能力值和专长，它们将影响角色的工作表现。
 
-Specializations are limited by skill, so if your founder has low design skill, he/she will also be low skilled in the design specialization you pick.
+专长将受到能力值的限制。这意味着如果您的角色的设计能力十分低下，他/她在设计领域里专长的方面的设计能力一样会很低下。
 
-You can further educate and train your founder to gain skill and specializations in the game.</Message>
-	<Message id="CUSTOMIZATION9">You are now done customizing your founder. Let's begin choosing the rules of the game!</Message>
-	<Message id="CUSTOMIZATION10">You can enable any mods here, which will be bound to the game forever.
+在游戏中您可以通过教育让您的角色获得新的能力值和专长。</Message>
+	<Message id="CUSTOMIZATION9">您的角色已经准备好了！现在让我们来看看游戏的规则设定吧！</Message>
+	<Message id="CUSTOMIZATION10">您可以在这里开启Mod。Mod设置将不能在游戏进行时更改。
 
-You can share your game with others, without them having to install the mods.
+您可以把您的游戏分享给其他人，即使他们没有安装这些Mod。
 
-Some mods add scenarios, so you should enable the ones you want before picking a scenario.</Message>
-	<Message id="CUSTOMIZATION11">Now pick a scenario. The scenario will control the starting money and starting date you can choose between, and goals and whether to simulate the competition, use a scripted competition or both.</Message>
-	<Message id="CUSTOMIZATION12">You can change the environment here.
+有的Mod会增加新的场景，因此您应该在选择场景前开启这些Mod。</Message>
+	<Message id="CUSTOMIZATION11">现在请选择一个场景。场景将会影响您能选择的起始金钱和起始日期、目标和竞争者的模拟方式。</Message>
+	<Message id="CUSTOMIZATION12">您可以在这里更改环境。
 
-The forest is the default environment, the tundra is cold all year, the desert is hot all year and the city has skyscrapers and a pre-built road network with parking lots.</Message>
-	<Message id="CUSTOMIZATION13">Difficulty can be changed at any point in the game by going to the options menu. Difficutly controls employee wage and effectiveness, and the simulated competitors' competence.</Message>
-	<Message id="CUSTOMIZATION14">Normally 1 day is equal to 1 month in Software Inc. This keeps the game at a steady pace so it doesn't get boring.
+森林是默认环境，冻土全年都很冷，沙漠全年都很热而城市有预制的一栋摩天大楼、道路和停车场。</Message>
+	<Message id="CUSTOMIZATION13">您可以在选项中随时更改难度。难度将会影响员工的工资和效率，并影响竞争者的竞争力。</Message>
+	<Message id="CUSTOMIZATION14">一般来说在游戏中1天就是一个月。这将保持游戏的节奏从而不会让玩家觉得太无聊。
 
-If you feel the game is going too fast or you want a couple of buffer days to earn money between having to pay salaries and bills, you can increase the amount of days there is in a month.
+若您觉得游戏节奏太快或您需要更多的时间来赚钱并使得工资的结算更晚一些，您可以增加每月的天数。
 
-Note that everything in the game will move relatively slower to match the setting you pick and you can't change it later on.</Message>
-	<Message id="DESIGN DOCUMENT1">Start the tutorial by pressing the "Develop software" button to bring up the design document.</Message>
-	<Message id="DESIGN DOCUMENT2">Welcome to the design document, the heart of Software Inc.
+请注意，游戏中的事件的出现和发生会随着您的设置而变慢。您将不能在游戏进行时更改这个设置。</Message>
+	<Message id="DESIGN DOCUMENT1">按下“开发软件”按钮来开始软件开发的教程。</Message>
+	<Message id="DESIGN DOCUMENT2">欢迎来到软件设计，这是这个游戏的核心。
 
-Start by picking a software type.
+选择一个软件类型来开始。
 
-Click continue to to advance the tutorial.</Message>
+点击“继续”来继续</Message>
 	<Message id="DESIGN DOCUMENT3">If applicable, you can pick a software category. Each category for a software type has different development times, popularity, audience retention, features and it's own target audience.</Message>
 	<Message id="DESIGN DOCUMENT4">Then pick a name. You can either write one yourself or press the "Name:" button to have it generated.</Message>
 	<Message id="DESIGN DOCUMENT5">You can also pick a price. If you leave the price field alone, the best price will be picked based on the software and features you've chosen. You can click the Price button to reset the price.</Message>
@@ -352,31 +352,31 @@ Alternatively, you can buy the stock when it is cheap and sell it high, by tryin
 
 Make sure to quickly assign a team to this work item or it will affect your company's reputation.</Message>
 	<Message id="SUPPORT WORK2">The work item will fill up as bugs are fixed, the blue line represents how many bugs have been reported so far. When the item is filled, the work is over and your software is bug free... In theory.</Message>
-	<Message id="WELCOME1">Welcome to Software Inc.
+	<Message id="WELCOME1">欢迎来到Software Inc.
 
-You can drag this window somewhere else if it is in the way, by clicking and holding the titlebar.
+您可以通过点击并拖曳标题栏来移动此窗口。
 
-Press Continue to advance the tutorial.</Message>
-	<Message id="WELCOME2">You can move the camera with the WASD keys, holding CTRL + right mouse button and dragging the mouse, or by moving your mouse to the edges of the screen (if edge scrolling is enabled in the options menu).
+点击“继续”来继续教程</Message>
+	<Message id="WELCOME2">您可以通过WASD来，按住CTRL和鼠标右键并拖曳及把你的鼠标移动到镜头边缘（在选项中打开画面边缘移动）来移动镜头。
 
-You can rotate the camera by holding the middle mouse button and moving the mouse or by using the arrow keys.
+您可以按住鼠标中键并移动鼠标或使用上、下、左、右箭头键来旋转镜头。
 
-You can zoom in and out by using the scroll wheel or the plus and minus keys on your keypad.</Message>
-	<Message id="WELCOME3">The keys can be configured in the options menu, which you can open by pressing Escape or pressing the button in the lower right corner and click "Options".</Message>
-	<Message id="WELCOME4">In the top you can find your current bank balance.</Message>
-	<Message id="WELCOME5">Up here, the stars show your business reputation and the number is your fan count.
+您可以使用鼠标滚轮或“+”、“-”键来拉近或拉远镜头。</Message>
+	<Message id="WELCOME3">您可以按下ESC或画面右下角的齿轮图标来打开游戏选单，并在选项菜单中更改按键设置。</Message>
+	<Message id="WELCOME4">这里是您公司当前的资金状况。</Message>
+	<Message id="WELCOME5">这里的星星是您公司的声望，下面的数字是您公司的粉丝数。
 
-You can hover over the bar to see your market recognition in each software market. To sell more products in each software category, you need to gain market recognition by making good products and marketing them.</Message>
-	<Message id="WELCOME6">Here you can see how much money is moving in and out of your company.
+鼠标悬浮在这里将会显示您公司在各软件市场的认可度。您需要通过在各软件市场卖出高质量的软件来提高您公司在该软件市场的认可度。更高的认可度将使您在该软件类别取得更多的销量。</Message>
+	<Message id="WELCOME6">在这里您可以查看您公司的收支情况。
 
-Since this is your first day, nothing is showing. If you click here, a window with an overview of your bank flow will open.</Message>
-	<Message id="WELCOME7">You can control how fast time moves by using these buttons or 0, 1, 2, 3 on your keyboard, which can also be configured in the options menu.</Message>
-	<Message id="WELCOME8">Important notifications will appear in the top left. You can drag the notification bar down to see old notifications.
+因为您的公司刚刚成立，这里不会有任何显示。如果您点击这里，将会显示一个经济的统计页面。</Message>
+	<Message id="WELCOME7">您可以通过键盘上的0、1、2、3按钮来控制时间流动速度。</Message>
+	<Message id="WELCOME8">在这里将会显示一些重要的通知。您可以把通知栏往下拉来查看一些旧的通知。
 
-Some notifications can be clicked to move the camera to the subject. You can right click notifications to delete them.</Message>
-	<Message id="WELCOME9">All your controls and windows are here, in the bottom left corner.</Message>
-	<Message id="WELCOME10">Remember: You can always restart any tutorial from the options menu.
+有些通知能够点击，这将把你的摄像机移动到与之关联的物体上。您可以通过右键点击来删除通知。</Message>
+	<Message id="WELCOME9">这些按钮将帮助您控制您的公司。</Message>
+	<Message id="WELCOME10">请记住：您能在任何时候通过选项重新开启您的教程。
 
-When you are ready, begin building your office by entering "Build mode".</Message>
+当你准备好后，请打开“建造模式”来建造您的第一件办公室吧！</Message>
 </Tutorial>
 
