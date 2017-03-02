@@ -157,7 +157,7 @@
 		<Item Name="Count">计算 Count </Item>
 		<Item Name="Compatibility">Compatibility</Item>
 		<Item Name="Work">工作 Work </Item>
-		<Item Name="Employees">员工 Employees </Item>
+		<Item Name="Employees">员工</Item>
 		<Item Name="Arrival">到达 Arrival </Item>
 		<Item Name="+">+</Item>
 		<Item Name="-">-</Item>
@@ -182,7 +182,7 @@
 		<Item Name="Date">日期 Date </Item>
 		<Item Name="Money">钱 Money </Item>
 		<Item Name="Products">产品 Products </Item>
-		<Item Name="Employees">员工 Employees </Item>
+		<Item Name="Employees">员工</Item>
 		<Item Name="Enabled">开启</Item>
 		<Item Name="Toggle">开/关Toggle</Item>
 		<Item Name="Active">启动Active</Item>
@@ -554,7 +554,7 @@ If you want to split a room you have to build from wall to wall</Item>
 		<Item Name="Comfort">舒适度</Item>
 		<Item Name="Computer">电脑</Item>
 		<Item Name="Noise">噪声</Item>
-		<Item Name="Lighting">光线</Item>
+		<Item Name="Lighting">光纤</Item>
 		<Item Name="Basement">地下室</Item>
 		<Item Name="Other teams">其他小组</Item>
 		<Item Name="Hunger">饥饿</Item>
@@ -606,12 +606,12 @@ Are you sure you want to continue?</Item>
 		<Item Name="LowMoneyHireWarning">You have limited funds to sustain your company if you hire {0}. Are you sure don't want to wait?</Item>
 		<Item Name="LowInsuranceHireWarning">You don't have a lot of funds in your insurance account, which will decrease the amount of high quality applicants. Are you sure you want to continue?</Item>
 		<Item Name="WinDialogMsg">Congratulations! You completed this scenario.</Item>
-		<Item Name="WinDialogMsgTitle">You win!</Item>
-		<Item Name="WinDialogMsgQuit">Quit</Item>
-		<Item Name="WinDialogMsgContinue">Continue playing</Item>
+		<Item Name="WinDialogMsgTitle">你赢了！</Item>
+		<Item Name="WinDialogMsgQuit">退出</Item>
+		<Item Name="WinDialogMsgContinue">继续游玩</Item>
 		<Item Name="LoseDialogMsg">You failed to complete this scenario.</Item>
-		<Item Name="LoseDialogMsgTitle">You lose!</Item>
-		<Item Name="BankruptInsurance">You have {0} in your account.
+		<Item Name="LoseDialogMsgTitle">你输了！</Item>
+		<Item Name="BankruptInsurance">您的账户中有{0}。
 Do you want to withdraw {1} from your insurance funds to try to avoid going bankrupt?</Item>
 		<Item Name="BankruptStock">You have {0} in your account.
 Do you want to sell your stocks worth {1} to try to avoid going bankrupt?</Item>
@@ -620,44 +620,44 @@ Do you want to take a loan worth {1} to avoid going bankrupt?</Item>
 		<Item Name="BankruptLoseMsg">You went bankrupt with {0} in your account.</Item>
 	</Dialogs>
 	<FurnitureInfo>
-		<Item Name="Currently used by">Currently used by</Item>
-		<Item Name="Owned by">Owned by</Item>
-		<Item Name="Nobody">Nobody</Item>
-		<Item Name="Currently on">Currently on</Item>
-		<Item Name="Currently off">Currently off</Item>
-		<Item Name="FurnitureUnlock">This item unlocks in the year {0}</Item>
+		<Item Name="Currently used by">当前使用者</Item>
+		<Item Name="Owned by">拥有者</Item>
+		<Item Name="Nobody">没人</Item>
+		<Item Name="Currently on">当前开启</Item>
+		<Item Name="Currently off">当前关闭</Item>
+		<Item Name="FurnitureUnlock">此物品将在{0}年解锁</Item>
 	</FurnitureInfo>
 	<RoomLimitNames>
-		<Item Name="Lounge">Lounge</Item>
-		<Item Name="Anyone">Anyone</Item>
-		<Item Name="Leaders">Leaders</Item>
-		<Item Name="Programmers">Programmers</Item>
-		<Item Name="Designers">Designers</Item>
-		<Item Name="Artists">Artists</Item>
-		<Item Name="Marketing">Marketing</Item>
+		<Item Name="Lounge">休息室</Item>
+		<Item Name="Anyone">任何人</Item>
+		<Item Name="Leaders">领导人</Item>
+		<Item Name="Programmers">码农</Item>
+		<Item Name="Designers">设计师</Item>
+		<Item Name="Artists">艺术家</Item>
+		<Item Name="Marketing">市场经理</Item>
 	</RoomLimitNames>
 	<BuildMode>
-		<Item Name="Wall">Wall</Item>
-		<Item Name="Door">Door</Item>
-		<Item Name="Elevator">Elevator</Item>
-		<Item Name="Window">Window</Item>
-		<Item Name="Road">Road</Item>
-		<Item Name="Parking">Parking</Item>
-		<Item Name="Room">Room</Item>
-		<Item Name="Destroy">Destroy</Item>
-		<Item Name="Remove">Remove</Item>
-		<Item Name="Normal">Normal</Item>
-		<Item Name="Horizontal">Horizontal</Item>
-		<Item Name="Vertical">Vertical</Item>
-		<Item Name="Construct room">Construct room</Item>
-		<Item Name="Remove road">Remove road</Item>
-		<Item Name="Build road">Build road</Item>
-		<Item Name="Not available in demo">Not available in demo</Item>
-		<Item Name="Office">Office</Item>
-		<Item Name="Temperature">Temperature</Item>
-		<Item Name="Lighting">Lighting</Item>
-		<Item Name="Needs">Needs</Item>
-		<Item Name="Decoration">Decoration</Item>
+		<Item Name="Wall">墙</Item>
+		<Item Name="Door">门</Item>
+		<Item Name="Elevator">电梯</Item>
+		<Item Name="Window">窗户</Item>
+		<Item Name="Road">道路</Item>
+		<Item Name="Parking">停车场</Item>
+		<Item Name="Room">房间</Item>
+		<Item Name="Destroy">拆除</Item>
+		<Item Name="Remove">移除</Item>
+		<Item Name="Normal">正常</Item>
+		<Item Name="Horizontal">水平</Item>
+		<Item Name="Vertical">垂直</Item>
+		<Item Name="Construct room">建造房间</Item>
+		<Item Name="Remove road">移除道路</Item>
+		<Item Name="Build road">建造道路</Item>
+		<Item Name="Not available in demo">在Demo中不可用</Item>
+		<Item Name="Office">办公室</Item>
+		<Item Name="Temperature">温度</Item>
+		<Item Name="Lighting">亮度</Item>
+		<Item Name="Needs">需求</Item>
+		<Item Name="Decoration">装饰</Item>
 	</BuildMode>
 	<RightClick>
 		<Item Name="ActionPair">给员工分配家具</Item>
@@ -784,20 +784,20 @@ Loss: {5}</Item>
 Left click anywhere else  or double click to disconnect the server.
 
 Right click to deselect and cancel.</Item>
-	<Item Name="Noisiness">Noisiness</Item>
+	<Item Name="Noisiness">噪声</Item>
 	<Item Name="State">State</Item>
 	<Item Name="YearsPostfix"> years</Item>
 	<Item Name="MonthsPostfix"> months</Item>
 	<Item Name="Assign">Assign</Item>
 	<Item Name="Unassigned">Unassigned</Item>
 	<Item Name="SaveName">Enter save name...</Item>
-	<Item Name="Save">Save</Item>
-	<Item Name="Load">Load</Item>
+	<Item Name="Save">保存</Item>
+	<Item Name="Load">加载</Item>
 	<Item Name="Apply">应用</Item>
-	<Item Name="New team">New team</Item>
-	<Item Name="Team name">Team name</Item>
-	<Item Name="Enable">Enable</Item>
-	<Item Name="Accept work">Accept work</Item>
+	<Item Name="New team">新小组</Item>
+	<Item Name="Team name">小组名字</Item>
+	<Item Name="Enable">开启</Item>
+	<Item Name="Accept work">接收工作</Item>
 	<Item Name="Specialization">专长</Item>
 	<Item Name="Skill">能力</Item>
 	<Item Name="Traits">Traits</Item>
@@ -1095,74 +1095,74 @@ Expires: {3}</Item>
 		<Item Name="Paused">Paused</Item>
 	</Alpha5.4>
 	<Alpha6>
-		<Item Name="ActionDismantle">Dismantle</Item>
-		<Item Name="Dismantle">Dismantle</Item>
-		<Item Name="DismantleMsg">Are you sure you want to dismantle {0} wall segments?</Item>
-		<Item Name="DismantleMsg2">Dismantle {0} wall segments</Item>
+		<Item Name="ActionDismantle">拆除</Item>
+		<Item Name="Dismantle">拆除</Item>
+		<Item Name="DismantleMsg">您确认您要拆除墙上的{0}个元素吗？</Item>
+		<Item Name="DismantleMsg2">拆除墙上的{0}个元素</Item>
 		<Item Name="WallSegments">Wall segments</Item>
 		<Item Name="AngleSnapDesc">Change furniture snapping angle</Item>
-		<Item Name="DoubleGridSize">Double grid size</Item>
-		<Item Name="HalveGridSize">Halve grid size</Item>
+		<Item Name="DoubleGridSize">格子面积加倍</Item>
+		<Item Name="HalveGridSize">格子面积减半</Item>
 		<Item Name="ChangeGridAnchor">Anchor grid to an object or wall in the world</Item>
-		<Item Name="ResetGrid">Reset grid</Item>
-		<Item Name="ActionMergeRooms">Merge rooms</Item>
-		<Item Name="Turn furniture clockwise">Turn furniture clockwise</Item>
-		<Item Name="Turn furniture counter clockwise">Turn furniture counter clockwise</Item>
-		<Item Name="Grid">Grid</Item>
-		<Item Name="ActionSelectWall">Select all segments on this wall</Item>
-		<Item Name="ActionDuplicate">Duplicate</Item>
-		<Item Name="RoomNarrowError">Room walls have to be 1.0 unit apart</Item>
-		<Item Name="RoomIntersectError">Walls cannot intersect</Item>
-		<Item Name="RoomInsideError">You cannot build rooms around rooms</Item>
-		<Item Name="FurnitureSnapError">This has to be placed at the indicated points</Item>
-		<Item Name="RoomInRoomError">You can't build rooms inside rooms</Item>
-		<Item Name="Construct rectangle room">Construct rectangle room</Item>
+		<Item Name="ResetGrid">重置格子</Item>
+		<Item Name="ActionMergeRooms">合并房间</Item>
+		<Item Name="Turn furniture clockwise">顺时针旋转家具</Item>
+		<Item Name="Turn furniture counter clockwise">逆时针旋转家具</Item>
+		<Item Name="Grid">方格</Item>
+		<Item Name="ActionSelectWall">选择这面墙上的所有元素</Item>
+		<Item Name="ActionDuplicate">重叠</Item>
+		<Item Name="RoomNarrowError">房间内的墙壁间隔必须超过一个单位</Item>
+		<Item Name="RoomIntersectError">墙壁不能重叠</Item>
+		<Item Name="RoomInsideError">您不能在房间外围建造房间</Item>
+		<Item Name="FurnitureSnapError">这只能放置在指定地点</Item>
+		<Item Name="RoomInRoomError">您不能在房间内建造房间</Item>
+		<Item Name="Construct rectangle room">建造矩形房间</Item>
 		<Item Name="CorruptSaveFile">
-This save file is corrupt.
-It is probably from an older version of Software Inc. which is no longer supported.</Item>
+这个存档出现了错误。
+它或许来自旧版本的Software Inc.</Item>
 	</Alpha6>
 	<Alpha6.4>
-		<Item Name="DynamicSegmentHint">Click and drag to scale this segment</Item>
+		<Item Name="DynamicSegmentHint">点击并拖曳来改变大小</Item>
 	</Alpha6.4>
 	<Alpha6.5>
-		<Item Name="RotateFurnHint2">Click and drag to rotate your furniture
-Or press {0} or {1}</Item>
-		<Item Name="Delete">Delete</Item>
-		<Item Name="DeleteSaveConf">Are you sure you want to delete this save file?
-You won't be able to recover it later!</Item>
-		<Item Name="DeleteFail">An error occured trying to delete the save file
-Make sure you have permission to delete this file on your computer</Item>
-		<Item Name="AskMarketingOption">Ask about marketing on release</Item>
+		<Item Name="RotateFurnHint2">点击并拖曳来旋转家具。
+或按下{0}或{1}</Item>
+		<Item Name="Delete">删除</Item>
+		<Item Name="DeleteSaveConf">您确认要删除这个存档吗？
+删除的存档将无法被还原！</Item>
+		<Item Name="DeleteFail">在尝试删除存档时发生了错误
+请确认您有权删除这个文件</Item>
+		<Item Name="AskMarketingOption">在软件发行时询问市场营销方案</Item>
 	</Alpha6.5>
 	<Alpha6.11>
-		<Item Name="Overall skill">Overall skill</Item>
-		<Item Name="Skill interview">Skill interview</Item>
-		<Item Name="Specialization interview">Specialization interview</Item>
-		<Item Name="Personality interview">Personality interview</Item>
+		<Item Name="Overall skill">总体能力</Item>
+		<Item Name="Skill interview">能力面试</Item>
+		<Item Name="Specialization interview">专长面试</Item>
+		<Item Name="Personality interview">性格面试</Item>
 		<Item Name="SSAA">SSAA</Item>
 		<Item Name="SSAAHint">Super-sampling antialiasing renders the game in double resolution to smooth out edges as much as possible (Requires a high-end graphics card)</Item>
-		<Item Name="Event">Event</Item>
-		<Item Name="InsuranceDescription">Life insurance per employee: {0}
-Health insurance per employee: {1}
-Pension per employee: {2}</Item>
-		<Item Name="Payments">Payments</Item>
-		<Item Name="Employee">Employee</Item>
+		<Item Name="Event">事件</Item>
+		<Item Name="InsuranceDescription">每个员工的人身保险：{0}
+每个员工的健康保险：{1}
+每个员工的养老金：{2}</Item>
+		<Item Name="Payments">支出</Item>
+		<Item Name="Employee">员工</Item>
 	</Alpha6.11>
 	<Alpha6.12>
-		<Item Name="Loans">Loans</Item>
+		<Item Name="Loans">贷款</Item>
 	</Alpha6.12>
 	<Alpha6.13>
-		<Item Name="KeyBindingHint">Press a button...</Item>
+		<Item Name="KeyBindingHint">按下按钮...</Item>
 		<Item Name="Context menu">Context menu</Item>
-		<Item Name="Rotate camera">Rotate camera</Item>
+		<Item Name="Rotate camera">旋转相机</Item>
 	</Alpha6.13>
 	<Alpha6.14>
 		<Item Name="Segment">Segment</Item>
 	</Alpha6.14>
 	<Alpha6.18>
-		<Item Name="SaveDeletedError">This save file no longer exists on your computer and will be removed</Item>
-		<Item Name="ExteriorWallFurn">You have to place this on an exterior wall</Item>
-		<Item Name="BasementFurnError">This furniture cannot be placed in the basement</Item>
+		<Item Name="SaveDeletedError">这个存档不存在您的电脑上，并将被移除。</Item>
+		<Item Name="ExteriorWallFurn">您只能把这个放在外墙上</Item>
+		<Item Name="BasementFurnError">这个物品不能被放在地下室</Item>
 		<Item Name="RoomTempratureWarning2">The temperature will vary a lot in this room
 Add temperature regulators and remember windows leak</Item>
 		<Item Name="TemperatureOveruse">A temperature regulation unit is overburdened. Please add more regulation units to the building complex.</Item>
@@ -1202,7 +1202,7 @@ Add temperature regulators and remember windows leak</Item>
 		<Item Name="MarketRecognitionInfo">Your market recognition controls how well known you are in each software market and therefore how well your products will sell in each category</Item>
 		<Item Name="Bandwidth">Bandwidth</Item>
 		<Item Name="Reflections">Reflections</Item>
-		<Item Name="ActionChange Room Team">Switch team</Item>
+		<Item Name="ActionChange Room Team">切换小组</Item>
 		<Item Name="Screen Space Reflections">Screen Space Reflections</Item>
 		<Item Name="SSRHint">Makes most shiny surfaces reflect their surroundings (Requires a high-end graphics card)</Item>
 		<Item Name="Please wait">Please wait</Item>
@@ -1211,26 +1211,26 @@ Add temperature regulators and remember windows leak</Item>
 		<Item Name="Hover for details">Hover for details</Item>
 		<Item Name="PerformanceTipDetail">The performance of most of the effects depend on your screen resolution and not the complexity of the objects on the screen. SSAA will double the performance impact of most of the effects.</Item>
 		<Item Name="Impact">Impact</Item>
-		<Item Name="Very high">Very high</Item>
-		<Item Name="High">High</Item>
-		<Item Name="Low">Low</Item>
+		<Item Name="Very high">非常高</Item>
+		<Item Name="High">高</Item>
+		<Item Name="Low">低</Item>
 		<Item Name="DevMarketingHint">Do you want to start a marketing campaign for {0} now?
 Marketing your product while it is under development will generate hype, which affects your launch sales and your competitors</Item>
 		<Item Name="MarketingError">There is already a marketing campaign for this product</Item>
 		<Item Name="KeyBindingWarning">"{0}" is already bound to "{1}", are you sure you want to rebind?</Item>
-		<Item Name="Request">Request</Item>
-		<Item Name="Retail price">Retail price</Item>
-		<Item Name="Priority">Priority</Item>
-		<Item Name="Change software name">Change software name</Item>
+		<Item Name="Request">要求</Item>
+		<Item Name="Retail price">零售价格</Item>
+		<Item Name="Priority">优先级</Item>
+		<Item Name="Change software name">更改软件名字</Item>
 		<Item Name="MarketingProduct">Marketing {0}</Item>
 		<Item Name="Time v Innovation">Time v Innovation</Item>
-		<Item Name="Time v quality">Time v quality</Item>
-		<Item Name="Budget v quality">Budget v quality</Item>
+		<Item Name="Time v quality">时间 v 质量</Item>
+		<Item Name="Budget v quality">预算 v 质量</Item>
 		<Item Name="AutoDevProjDetails2">Current project details:
-Name: {0}
-Type: {1}
-Category: {2}</Item>
-		<Item Name="OldSaveGameError">The game you tried to load was from an older version of Software Inc. ({0}), which is no longer compatible with the version you are using ({1})</Item>
+名字: {0}
+种类: {1}
+类别: {2}</Item>
+		<Item Name="OldSaveGameError">您正尝试加载的存档来自旧版本的Software Inc. ({0})。这个存档与您当前版本({1})的游戏并不兼容</Item>
 	</Alpha7.1>
 	<Alpha7.2>
 		<Item Name="FXAA">FXAA</Item>
@@ -1239,36 +1239,36 @@ Category: {2}</Item>
 		<Item Name="SMAADetails">Subpixel Morphological Anti-Aliasing, more advanced anti-aliasing. Keeps edges from looking pixelated</Item>
 		<Item Name="SMAADetailsError">Subpixel Morphological Anti-Aliasing, not supported on DirectX9</Item>
 		<Item Name="SSAADetails">Super-Sampling Anti-Aliasing. Renders the game in higher resolution to smooth out edges as much as possible (Requires a high-end graphics card)</Item>
-		<Item Name="WorkItemCancelConf">Are you sure you want to cancel {0}?</Item>
-		<Item Name="Shadow quality">Shadow quality</Item>
+		<Item Name="WorkItemCancelConf">您确认想要取消{0}?</Item>
+		<Item Name="Shadow quality">阴影质量</Item>
 		<Item Name="Units sold">Units sold</Item>
 	</Alpha7.2>
 	<Alpha7.3>
-		<Item Name="Off">Off</Item>
-		<Item Name="ActionResetDefaultStyle">Reset to default style</Item>
-		<Item Name="ComputerWarning">A computer is getting very slow and needs to be looked at by IT support staff</Item>
-		<Item Name="NotificationGotoHint">Click to view</Item>
-		<Item Name="Auto role">Auto role</Item>
+		<Item Name="Off">关闭</Item>
+		<Item Name="ActionResetDefaultStyle">重置为默认风格</Item>
+		<Item Name="ComputerWarning">有一台电脑运行十分缓慢并需要修理了。</Item>
+		<Item Name="NotificationGotoHint">点击以查看</Item>
+		<Item Name="Auto role">自动分配角色</Item>
 	</Alpha7.3>
 	<Alpha7.4>
-		<Item Name="Topdown view">Topdown view</Item>
+		<Item Name="Topdown view">自上而下视角</Item>
 		<Item Name="ServerDealDetail2">Type: {0}
 Income per Mbps per month: {1}
 Current bandwidth usage: {2}
 Maximum bandwidth usage: {3}</Item>
 	</Alpha7.4>
 	<Alpha7.5>
-		<Item Name="WorkPriorityHint">Higher number means higher priority</Item>
-		<Item Name="ShiftFurnHint">Hold shift to place multiple</Item>
-		<Item Name="IPDealActionBuyFail">{0} wants {1}, which you cannot afford it</Item>
+		<Item Name="WorkPriorityHint">更大的数字意味着更高优先级</Item>
+		<Item Name="ShiftFurnHint">按住Shift来放置多个</Item>
+		<Item Name="IPDealActionBuyFail">{0} 想要 {1}, which you cannot afford it</Item>
 		<Item Name="MarketingAmount1">None</Item>
 		<Item Name="MarketingAmount2">Sparse</Item>
 		<Item Name="MarketingAmount3">Prominent</Item>
 		<Item Name="MarketingAmount4">Widespread</Item>
 		<Item Name="MarketingAmount5">Unavoidable</Item>
-		<Item Name="ActionSelectBuildingFloor">Select building floor</Item>
-		<Item Name="PathwayBlocked">Something is blocking this path</Item>
-		<Item Name="Sweep selection">Sweep selection</Item>
+		<Item Name="ActionSelectBuildingFloor">选择楼层</Item>
+		<Item Name="PathwayBlocked">道路受阻</Item>
+		<Item Name="Sweep selection">切换选择</Item>
 	</Alpha7.5>
 	<FurnitureColorNames>
 		<Item Name="FCBase">Base</Item>
@@ -1379,11 +1379,11 @@ Don't let the words reach the bottom</Item>
 		<Item Name="Fence">Fence</Item>
 		<Item Name="Construct fence">Construct fence</Item>
 		<Item Name="Construct rectangle fence">Construct rectangle fence</Item>
-		<Item Name="ActionMaterial">Room construction material</Item>
-		<Item Name="Drag camera">Drag camera</Item>
-		<Item Name="DownFloor">Go down one floor</Item>
-		<Item Name="UpFloor">Go up one floor</Item>
-		<Item Name="Salaries">Salaries</Item>
+		<Item Name="ActionMaterial">房间建造材料</Item>
+		<Item Name="Drag camera">拖动相机</Item>
+		<Item Name="DownFloor">往下一层</Item>
+		<Item Name="UpFloor">往上一层</Item>
+		<Item Name="Salaries">工资</Item>
 		<Item Name="Force role">Force role</Item>
 		<Item Name="ForceRoleHint">Whether to force employees to only work in their strongest role</Item>
 		<Item Name="Preferred age">Preferred age</Item>
@@ -1391,12 +1391,12 @@ Don't let the words reach the bottom</Item>
 		<Item Name="EducationCooldownHint">How long to wait between education. Use a negative number to allow several courses at once</Item>
 		<Item Name="SheetDividends">Dividends</Item>
 		<Item Name="Dividends">Dividends</Item>
-		<Item Name="ResearchPhase1">Researching</Item>
-		<Item Name="ResearchPhase2">Testing</Item>
+		<Item Name="ResearchPhase1">研究</Item>
+		<Item Name="ResearchPhase2">测试</Item>
 		<Item Name="ResearchPhase3">Applying for patent</Item>
 	</Alpha8.1>
 	<Alpha8.2>
-		<Item Name="NoResearch">There is currently nothing to research</Item>
+		<Item Name="NoResearch">现在没有研究项目</Item>
 	</Alpha8.2>
 	<Alpha8.3>
 		<Item Name="Own office">Own office</Item>
