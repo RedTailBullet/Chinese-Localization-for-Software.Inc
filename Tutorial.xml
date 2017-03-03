@@ -43,7 +43,7 @@ Press "End" to finish the tutorial.</Message>
 现在我们来添加门和窗户把。您可以在类别中筛选门和窗户或直接在搜索框中搜索他们。</Message>
 	<Message id="BUILD MODE6">当您放置窗户时，您的房间也将变得明亮。请保证您的房间拥有足够的窗户来让您的员工不至于抹黑办公。
 
-通过选择房间，您可以查看房间的环境、光照、温度和噪声情况。</Message>
+选择房间时，您可以查看房间的环境、光照、温度和噪声情况。</Message>
 	<Message id="BUILD MODE7">您也可以改变房间和家具的颜色。
 
 请尝试在房间上点击右键，选择图标为一个画笔的“房间颜色”按钮。</Message>
@@ -170,22 +170,22 @@ Timing is everything when you're just starting out!</Message>
 Take special note of consumer reach. Consumer reach is how many people can potentially purchase the product as of right now, this number might decrease or increase as you develop the product. For software that depend on operating systems, it will be limited by how many people are currently using the operating system and it's successors.
 
 Having more than the suggested amount of employees on the development teams will not increase development speed, but might actually reduce it instead.</Message>
-	<Message id="DESIGN WORK1">To start developing your software, designers need to piece together a document, which describes how the software should be developed and structured, to make sure everyone is on the same page.
+	<Message id="DESIGN WORK1">在开始开发软件之前，软件设计师需要做出设计文档。设计文档将描述软件的结构和开发流程，确保小组里的每个人都知道什么时候该干什么事。
 	
-Design work items are worked on by designers or employees in "Any role" until you promote the work item to alpha.
+在您把阶段推进到Alpha前，设计师和任意角色的员工将开始进行设计。
 
-Press "continue" to advance the tutorial.</Message>
-	<Message id="DESIGN WORK2">Begin by assigning the work item to a team, if you haven't already. Hover over the bottom area of the work item to bring up the action menu and select "Assign".
+点击“继续”按钮以继续。</Message>
+	<Message id="DESIGN WORK2">首先，如果您还没有把任务分配给某个小组，请把鼠标移动到“工作项目”的底部，并选择“分配”。
 
-You can also unassign teams to pause work.</Message>
-	<Message id="DESIGN WORK3">Now employees on the team you have assigned will begin work, if they have a computer to sit at.
+您也可以通过取消分配来暂停项目。</Message>
+	<Message id="DESIGN WORK3">现在，如果您的员工有一台电脑的话，他就会开始工作了。
 
-The work item will slowly fill up as it progresses. For design documents it is important to stop when the task is completely green, so you don't lose quality. If you wait too long, inexperienced designers will begin over-engineering.</Message>
-	<Message id="DESIGN WORK4">You can click the clock icon to start a mini game, which will add extra quality to the design, but time is fast forwarded while you play.
+“工作项目”的相应栏目会慢慢填满。一旦设计文档的栏目完全变绿了，您就应该马上停止设计工作以防止软件质量下降。如果您等得太久，没有经验的设计师们将会“过度设计”。</Message>
+	<Message id="DESIGN WORK4">您可以点击时钟图标来开始一个小游戏，如果您在小游戏中胜出，将会给项目提升一定质量。但是在您玩小游戏时，时间将会快进。
 
-You can use mini games to speed work along, but you should only use this in the starting phases of your company, as the quality addition does not scale with project complexity and you will have other things to attend to later on.
+您可以通过小游戏来加快项目进展，但这种方式仅应用在公司刚成立时。因为小游戏获得的收益不会随着项目变得复杂而变多，而当公司变大时，您的时间会越来越宝贵。
 
-Click "Develop" in the Action menu when the progress bar is filled to begin alpha development.
+当设计阶段完成时，按下“开发”按钮来进入Alpha阶段。
 
 Right click the title bar to collapse the work item.
 
@@ -331,23 +331,23 @@ If you select a server group, you can see a list of all processes running on tha
 If this happens you should click the "View unsupported processes" button and redelegate all processes to other servers.
 
 Press End to finish the tutorial.</Message>
-	<Message id="STAFF1">Begin by opening the staff window.</Message>
-	<Message id="STAFF2">This is the staff window. At the top you will see a list of your currently employed staff, whether permanent or temporary.</Message>
-	<Message id="STAFF3">With the buttons under "Permanent:" you can hire staff permanently to clean, fix your furniture, etc. You can see their salary by hovering over the buttons. They will show up once a day until you dismiss them.
+	<Message id="STAFF1">打开“后勤人员管理”页面来开始</Message>
+	<Message id="STAFF2">这是“后勤人员管理”页面，在页面上方列举了您公司的所有后勤人员。</Message>
+	<Message id="STAFF3">您可以雇佣全职后勤人员来维护您公司的家具和卫生等。您可以把鼠标放在按钮上来查看他们的工资。他们每天会来一次，知道您解雇他们。
 
-You can change their working hours using the buttons in the list.</Message>
-	<Message id="STAFF4">With the buttons under "Temporary:" you can hire staff temporarily. They will stay untill their job is done or until you dismiss them. Hovering over the buttons will show you their terms.
+您可以通过列表上的按钮来调整他们的工作时间。</Message>
+	<Message id="STAFF4">您也可以雇佣临时工人，他们会待到他们完成工作或您解雇他们为止。您可以把鼠标放在按钮上来查看他们的工资。
 
-Press "End" to end the tutorial.</Message>
-	<Message id="STOCKS1">In the upper right corner of the company window, you will see a list of stocks.
+按下“结束”来结束教程。</Message>
+	<Message id="STOCKS1">在公司窗口的右上角，您会看到股票的列表。
 
-The first stock in the list is the company's own share, which you can buy if you have bought all other stocks in the list. Buying out a company will give you their IP and their patents.
+第一个股票是公司自己保有的股票，一旦您买完了其他的股票，您就可以购买这部分股票了。收购一家公司会同时收购他们的产品和专利。
 
-When a company goes bankrupt, all its assets will go to the majority shareholder.</Message>
-	<Message id="STOCKS2">When you own stock in another company, that company will pay dividends to you each month, which is the percentage you own in the company of their surplus for that month, divided by 24. You will also have to pay dividends to companies that own stock in your company, but it is an easy way to loan money.
+当一个公司破产时，公司的所有财产将会归主要股东所有。</Message>
+	<Message id="STOCKS2">当你拥有某个公司的股票时，该公司会每月给你分红。 分红数量为该公司该月盈利×您的股份所占的百分比÷24。您也必须向您公司的股东们支付分红。但发行股票是一种比较好的贷款方式。
 
-Alternatively, you can buy the stock when it is cheap and sell it high, by trying to predict how the company will do, based on its history.</Message>
-	<Message id="STOCKS3">In the bottom middle of the window you can see the companies patents. If you develop products with any of the feature listed, you will have to pay royalties to this company out of its profit. If you own stocks in the company, you do not have to pay royalites.</Message>
+您可以根据公司的发展预测股票的走向，并且低买高卖。</Message>
+	<Message id="STOCKS3">在底部中央，是专利列表。如果您开发的软件拥有列表内的功能，您将需要向持有该专利的公司支付专利费用。而如果您拥有这个公司的股份，您将不需要支付专利费用。</Message>
 	<Message id="SUPPORT WORK1">When you release a new piece of software it will spawn a support work item. This work item will continually generate bugs that need to be fixed.
 
 Make sure to quickly assign a team to this work item or it will affect your company's reputation.</Message>
