@@ -295,26 +295,26 @@
 		<Item Name="ServerRename">服务器名...</Item>
 		<Item Name="Rename">重命名</Item>
 		<Item Name="Redelegate selected">Redelegate selected</Item>
-		<Item Name="UnsupportedProc">View unsupported processes</Item>
-		<Item Name="Processes">Processes</Item>
+		<Item Name="UnsupportedProc">查看未受支持的进程</Item>
+		<Item Name="Processes">进程</Item>
 	</ServerWindow>
 	<HireWindows>
 		<Item Name="Begin looking">开始寻找</Item>
-		<Item Name="Remove 10">移除10</Item>
+		<Item Name="Remove 10">移除 10 个</Item>
 		<Item Name="Interview">面试</Item>
 	</HireWindows>
 	<EducationWindow>
 		<Item Name="Start education">开始教育</Item>
-		<Item Name="ProjectCourseDesc">Project management allows a leader to take over a development cycle by automatically designing new products and delegating work to specific teams.</Item>
-		<Item Name="HRCourseDesc">HR management allows a leader to take over HR responsibilities, like hiring, firing, settling disputes, raises and education.</Item>
+		<Item Name="ProjectCourseDesc">项目管理课程将教会您的领导如何接手一个软件的全部开发过程。</Item>
+		<Item Name="HRCourseDesc">人力资源管理课程将教会您的领导如何管理人力资源，他将能独立搞定人力资源管理的工作。</Item>
 	</EducationWindow>
 	<DistributionWindow>
-		<Item Name="Make Deal">Make deal</Item>
+		<Item Name="Make Deal">做交易</Item>
 		<Item Name="Take offline">下线</Item>
-		<Item Name="Popularity history">Popularity history</Item>
-		<Item Name="Your distribution channel">Your distribution channel</Item>
-		<Item Name="Cut">Cut</Item>
-		<Item Name="Open">Open</Item>
+		<Item Name="Popularity history">热度走势</Item>
+		<Item Name="Your distribution channel">您的分发渠道</Item>
+		<Item Name="Cut">分红</Item>
+		<Item Name="Open">打开</Item>
 		<Item Name="StoreName">商店名...</Item>
 	</DistributionWindow>
 	<WageWindow>
@@ -1239,7 +1239,7 @@ OS coverage: {1}%
 		<Item Name="SMAADetails">Subpixel Morphological Anti-Aliasing, more advanced anti-aliasing. Keeps edges from looking pixelated</Item>
 		<Item Name="SMAADetailsError">Subpixel Morphological Anti-Aliasing, not supported on DirectX9</Item>
 		<Item Name="SSAADetails">Super-Sampling Anti-Aliasing. Renders the game in higher resolution to smooth out edges as much as possible (Requires a high-end graphics card)</Item>
-		<Item Name="WorkItemCancelConf">您确认想要取消 {0}?</Item>
+		<Item Name="WorkItemCancelConf">您确认想要取消 {0} 吗？</Item>
 		<Item Name="Shadow quality">阴影质量</Item>
 		<Item Name="Units sold">销量</Item>
 	</Alpha7.2>
@@ -1259,7 +1259,7 @@ OS coverage: {1}%
 	</Alpha7.4>
 	<Alpha7.5>
 		<Item Name="WorkPriorityHint">更大的数字意味着更高优先级</Item>
-		<Item Name="ShiftFurnHint">按住Shift来放置多个</Item>
+		<Item Name="ShiftFurnHint">按住 Shift 来放置多个</Item>
 		<Item Name="IPDealActionBuyFail">{0} 想要 {1}，但是您预算不够</Item>
 		<Item Name="MarketingAmount1">没有</Item>
 		<Item Name="MarketingAmount2">声名不显</Item>
@@ -1344,7 +1344,7 @@ OS coverage: {1}%
 		<Item Name="FeatureFromWarning">此功能被 {0} 取代了</Item>
 		<Item Name="FeatureDependencyUnlockWarning">此功能依赖于来自 {1} 的 {0}，而它还未解锁。</Item>
 		<Item Name="FeatureDependencyMarketWarning">此功能依赖于来自 {1} 的 {0}，而它还未能在市场上使用。</Item>
-		<Item Name="FeatureDependencyPickedWarning">此功能依赖 {0}, which is not available for the {1} you have picked</Item>
+		<Item Name="FeatureDependencyPickedWarning">此功能依赖 {0}，这在您选择的 {1} 中不可用。</Item>
 		<Item Name="FeatureDependencyOSWarning">所有支持的操作系统都需要 {0} 来解锁此功能</Item>
 		<Item Name="SoftwareSupportWaning">您的粉丝注意到在您发布类型为 {0}（{1}）的产品后已经过了一段时间了。</Item>
 		<Item Name="SheetRoyalties">版权税</Item>
@@ -1386,7 +1386,7 @@ OS coverage: {1}%
 		<Item Name="Salaries">工资</Item>
 		<Item Name="Force role">强制担任角色</Item>
 		<Item Name="ForceRoleHint">强制您的员工之担任他们最适合的角色</Item>
-		<Item Name="Preferred age">选择的年龄</Item>
+		<Item Name="Preferred age">所选的年龄</Item>
 		<Item Name="Education cooldown">教育冷却时间</Item>
 		<Item Name="EducationCooldownHint">经过教育后的冷却时间，若为负数，则此人可以同时进行多项教育</Item>
 		<Item Name="SheetDividends">红利</Item>
@@ -1406,29 +1406,29 @@ OS coverage: {1}%
 		<Item Name="RoomAngleError2">墙壁角度必须大于 {0}°</Item>
 		<Item Name="Hint">提示</Item>
 		<Item Name="Hints">提示</Item>
-		<Item Name="HintEmployeeAssign">You can assign employees to furniture by holding shift and selecting both the employee(s) and the furniture and then right clicking</Item>
-		<Item Name="HintStaffAssign">You can assign staff to rooms by holding shift and selecting both the staff member(s) and the room(s) and then right clicking</Item>
-		<Item Name="HintMultipleBuild">You can keep placing objects and rooms in build mode by holding shift, this also works when duplicating objects</Item>
-		<Item Name="HintQuickSelect">You can easily select multiple objects of a specific type by holding ctrl and the left mouse button while dragging the mouse</Item>
-		<Item Name="HintSelectFurnitureType">The select furniture type option is extremely versatile, you can use it to select all furniture in a room or the selected furniture type(s) in the selected room(s)</Item>
-		<Item Name="HintCopyColor">You can easily copy furniture color by setting the default style and then resetting style for selected furniture from the context menu</Item>
-		<Item Name="HintProductRelease">Keep an eye on upcoming and recently released products before releasing your own to avoid getting overshadowed</Item>
-		<Item Name="HintFurnitureCopyMultiple">You can copy multiple objects in an arrangement at a time by holding shift and selecting them before duplicating</Item>
-		<Item Name="HintEmployeeEducation">You can educate multiple employees at a time by having them all selected before you open the education window</Item>
-		<Item Name="HintEmployeeSelection">You can hold ctrl and click to select multiple employees or hold shift to select a range of employees, which also works for some other lists in the game</Item>
-		<Item Name="HintAutoScaleSegment">For some wall segments, you can hold ctrl to auto scale the segment to fit the wall you want to build it on</Item>
+		<Item Name="HintEmployeeAssign">您可以通过按住 Shift 并点击员工和家具来为快速地员工分配家具。最后点击右键来确定。</Item>
+		<Item Name="HintStaffAssign">您可以通过按住 Shift 并点击员工和房间来快速地为员工分配房间。最后点击右键来确定。</Item>
+		<Item Name="HintMultipleBuild">您可以按住 Shift 来放置多个物品。</Item>
+		<Item Name="HintQuickSelect">您可以通过按住 Ctrl 并左键拖动来选择特定类型的多个物品。</Item>
+		<Item Name="HintSelectFurnitureType">“所有家具”的选项能帮助您一次性选择房间内的所有家具或特定类型的所有家具。</Item>
+		<Item Name="HintCopyColor">在右键菜单中您能快速地更换家具的颜色或为家具设置默认颜色。</Item>
+		<Item Name="HintProductRelease">在发行您的产品前别忘了看看最近发布产品列表以避免与其他产品撞车。</Item>
+		<Item Name="HintFurnitureCopyMultiple">通过按住 Shift 并选中多项物品，您能够在复制时保持他们的位置。</Item>
+		<Item Name="HintEmployeeEducation">在打开“教育”窗口前选中多名员工可以让他们一起参加培训。</Item>
+		<Item Name="HintEmployeeSelection">按住 Ctrl 可以选中多名员工，而按住 Shift 则可以选择一批员工。这在游戏中所有列表都是通用的。</Item>
+		<Item Name="HintAutoScaleSegment">有些墙上的元素允许您按住 Ctrl 来让它与它所在的墙壁匹配。</Item>
 	</Alpha8.3>
 	<Alpha8.4>
-		<Item Name="HintElevatorBeam">You can select elevators in build mode to show a guiding beam, which will help you align elevators on other floors</Item>
-		<Item Name="HRHireBudgetWarning">HR for team {0} does not have a budget big enough to hire more employees</Item>
-		<Item Name="PortNonOSError">This product is not operating system dependant</Item>
-		<Item Name="ResearchOwnedError">This has already been researched</Item>
-		<Item Name="SoftwareSoftwareDependencyWarning">This software depends on {1} to be developed. Please select a product of type {1} to continue</Item>
-		<Item Name="SoftwareFeatureError">You need at least one feature to begin development</Item>
+		<Item Name="HintElevatorBeam">在建筑模式中选择一个电梯将开启一个标识以便您在不同楼层对齐电梯</Item>
+		<Item Name="HRHireBudgetWarning">{0} 小组的人力资源经理没有足够的预算来雇佣更多员工</Item>
+		<Item Name="PortNonOSError">这个产品不依赖于操作系统</Item>
+		<Item Name="ResearchOwnedError">这已经被研究完成了</Item>
+		<Item Name="SoftwareSoftwareDependencyWarning">这个软件的开发依赖于 {1}，请选择一个类型为 {1} 的产品</Item>
+		<Item Name="SoftwareFeatureError">您需要至少一个功能</Item>
 	</Alpha8.4>
 	<Alpha8.5>
 		<Item Name="Bank">银行</Item>
-		<Item Name="HintGridSnapToWall">You can use the "Anchor grid" button, above the build button on the left, to snap the grid to a wall. This makes it a lot easier to align furniture to angled walls</Item>
+		<Item Name="HintGridSnapToWall">您可以使用“对齐网格”按钮来使网格对齐某个墙壁，这将大大方便您放置倾斜墙边的家具。</Item>
 	</Alpha8.5>
 	<Alpha8.6>
 		<Item Name="Upload">上传</Item>
@@ -1496,12 +1496,12 @@ OS coverage: {1}%
 		<Item Name="Fast learner">学得快</Item>
 		<Item Name="Lazy">懒</Item>
 		<Item Name="Stressed">压力大</Item>
-		<Item Name="IndependantVsSocial">A good leader needs to be social, but an independant employee will happily work all day by themselves in their booths</Item>
-		<Item Name="LazyVsStressed">A lazy employee will try to get out of work as much as possible, whereas a stressed employee will quickly feel overworked</Item>
-		<Item Name="HardWorkVsFastLearn">A hard worker always gives it 110%, but a fast learner will pick up new skills more easily</Item>
-		<Item Name="InHouseWarning">You are about to start deveping an in-house product, which means you won't be able to sell it or license it.
+		<Item Name="IndependantVsSocial">一个好的领导应该善于社交，而一个独立的员工更喜欢自己工作。</Item>
+		<Item Name="LazyVsStressed">一个懒惰的员工将尽可能逃离工作，而一个压力大的员工将更容易被工作压垮。</Item>
+		<Item Name="HardWorkVsFastLearn">努力的员工总是尽 110% 的努力，而一个学东西快的员工将更容易学会新技能。</Item>
+		<Item Name="InHouseWarning">您正准备开发一个内部使用的软件，这意味着这个软件将无法被销售或被授权给其他人使用。
 您确认想继续吗？</Item>
-		<Item Name="InHouseMarketing">You cannot market in-house products</Item>
+		<Item Name="InHouseMarketing">你不能为内部使用的软件进行营销活动。</Item>
 		<Item Name="RotateRoomHint">按 {0} 或 {1} 来旋转</Item>
 		<Item Name="Appx bandwidth">Appx 带宽</Item>
 	</Alpha8.9>
@@ -1551,10 +1551,10 @@ OS coverage: {1}%
 		<Item Name="DeleteKeyHintHint">开除员工或销毁物品的默认快捷键是 DELETE，您可以在选项中更改。</Item>
 		<Item Name="SaveFailIOError">无法保存游戏，错误信息：
 {0}</Item>
-		<Item Name="Currency short form">Currency short form</Item>
-		<Item Name="MillionPost">百万 M</Item>
-		<Item Name="BillionPost">千万 B</Item>
-		<Item Name="UpdateBlueprint">升级蓝图 Update blueprint</Item>
+		<Item Name="Currency short form">简写</Item>
+		<Item Name="MillionPost">百万</Item>
+		<Item Name="BillionPost">千万</Item>
+		<Item Name="UpdateBlueprint">升级蓝图</Item>
 		<Item Name="SplitUnsupported">This split would result in unsupported rooms</Item>
 		<Item Name="ModActivateError">无法开启 Mod，详情请看日志。</Item>
 		<Item Name="HexColor">16进制颜色代码</Item>
@@ -1606,43 +1606,43 @@ Make sure you have one for each cook and at least one fridge and serving tray</I
 对您造成不便，我们十分抱歉！</Item>
 	</Alpha8.10>
 	<Alpha8.11>
-			<Item Name="FurnitureLoadError">A furniture named {0} was not present on your computer. The game will have to load your save file without this furniture, which might break the game.</Item>
-			<Item Name="StockLowBid">{0} is willing to offer {1}, do you want to take their offer?
-You bought the stock for {2} and it is currently worth {3}</Item>
-			<Item Name="InaccessibleRoom">This room is not accessible from the outside
-Please connect it using doors, elevators or stairs</Item>
-			<Item Name="Column widths">Column widths</Item>
-			<Item Name="MonthLeft">{0} month(s) left</Item>
-			<Item Name="DayLeft">{0} day(s) left</Item>
-			<Item Name="MonthNotLeft">{0} month(s) overdue</Item>
-			<Item Name="DayNotLeft">{0} day(s) overdue</Item>
-			<Item Name="LastMonth">Last month</Item>
-			<Item Name="LastDay">Last day</Item>
-			<Item Name="ContractGoal">Goal: {0}%</Item>
-			<Item Name="ContractEarlyDay">{0} day(s) early</Item>
-			<Item Name="ContractLateDay">{0} day(s) too late</Item>
-			<Item Name="Mens Suit">Men's suit</Item>
-			<Item Name="Womens Suit">Women's suit</Item>
-			<Item Name="Small moustache">Small moustache</Item>
+			<Item Name="FurnitureLoadError">有一件叫 {0} 的物品不在您的计算机中。游戏将尝试加载存档，但这可能会使得游戏崩溃。</Item>
+			<Item Name="StockLowBid">{0} 想要提供 {1}，您想接受这个提案吗？
+您以 {2} 的价格买入这些股票。它现在值 {3}</Item>
+			<Item Name="InaccessibleRoom">这个房子无法进入。
+请给它添加门、电梯或楼梯</Item>
+			<Item Name="Column widths">列宽</Item>
+			<Item Name="MonthLeft">还剩 {0} 个月</Item>
+			<Item Name="DayLeft">还剩 {0} 天</Item>
+			<Item Name="MonthNotLeft">超时 {0} 个月</Item>
+			<Item Name="DayNotLeft">超时 {0} 天</Item>
+			<Item Name="LastMonth">最后一个月</Item>
+			<Item Name="LastDay">最后一天</Item>
+			<Item Name="ContractGoal">目标：{0}%</Item>
+			<Item Name="ContractEarlyDay">提前 {0} 天</Item>
+			<Item Name="ContractLateDay">延迟 {0} 天</Item>
+			<Item Name="Mens Suit">男式西装</Item>
+			<Item Name="Womens Suit">女式西装</Item>
+			<Item Name="Small moustache">小 Moustache</Item>
 			<Item Name="Moustache">Moustache</Item>
-			<Item Name="Goatee">Goatee</Item>
-			<Item Name="Eye shadow">Eye shadow</Item>
+			<Item Name="Goatee">山羊胡</Item>
+			<Item Name="Eye shadow">眼影</Item>
 			<Item Name="Mens Beanie">Men's beanie</Item>
 			<Item Name="Womens Beanie">Women's beanie</Item>
-			<Item Name="KeyBindError">Couldn't bind to pressed button</Item>
-			<Item Name="BoughtOutProductsStocks">You received {0} stocks and the rights to {1} products</Item>
-			<Item Name="WorkItemTeamFilter">Filter based on selected teams</Item>
+			<Item Name="KeyBindError">无法绑定该按钮</Item>
+			<Item Name="BoughtOutProductsStocks">您获得了 {0} 股份及使用 {1} 的权利</Item>
+			<Item Name="WorkItemTeamFilter">根据所选小组筛选</Item>
 			<Item Name="Replace furniture">替换家具</Item>
 			<Item Name="ActionReplaceFurn">替换家具</Item>
-			<Item Name="InstallMods">Installed content mods</Item>
-			<Item Name="Idle employees">Idle employees</Item>
-			<Item Name="NotWorkingState">Not working</Item>
-			<Item Name="NoWork">No tasks assigned</Item>
-			<Item Name="NoComputer">No computer available</Item>
-			<Item Name="NotApplicable">Not qualified for assigned tasks</Item>
-			<Item Name="NoEffectiveness">Negatively affected by environment</Item>
-			<Item Name="NoActiveWork">All tasks are finished</Item>
-			<Item Name="StressProblem">I feel stressed</Item>
+			<Item Name="InstallMods">已安装的 Mod</Item>
+			<Item Name="Idle employees">空闲的员工</Item>
+			<Item Name="NotWorkingState">没在工作</Item>
+			<Item Name="NoWork">没有任务</Item>
+			<Item Name="NoComputer">没有可用的电脑</Item>
+			<Item Name="NotApplicable">无法胜任被分配的工作</Item>
+			<Item Name="NoEffectiveness">受到环境的负面影响</Item>
+			<Item Name="NoActiveWork">所有任务已完成</Item>
+			<Item Name="StressProblem">我觉得压力很大</Item>
 	</Alpha8.11>
 </UI>
 
