@@ -1,31 +1,31 @@
 <Tutorial>
-	<Message id="ALPHA WORK1">Your design has now been promoted to implementation.
+	<Message id="ALPHA WORK1">您的设计将开始实现。
 
-The implementation phase has three stages:
+实现过程有三个阶段：
 
-1. "Alpha", in which developers and artists create the product according to the design specifications and requirements.
+1. “Alpha”，在这个阶段，您的程序员和艺术家将按照设计时定下的要求开始编写程序。
 
-2. "Delay", depending on how competent your employees are, unexpected issues may crop up during alpha, which need to be addressed before moving on.
+2. “Delay”，在这个阶段，程序员和艺术家将会尝试定位在 Alpha 阶段产生的一些问题。
 
-3. "Beta", in which bugs are uncovered by your programmers and hopefully fixed before the final release.
+3. “Beta”，在这个阶段，程序员将尝试找出并消除所有 Bugs。
 
-Press "Promote" in the action menu when the alpha is ready. Note that you will lose some quality if you end the alpha phase prematurily, but it might also be the best thing to do if you want beat a competitor to the punch or you are running out of money.
+当完成 Alpha 阶段后按下“下一阶段”按钮进入下一阶段。请注意提前结束 Alpha 阶段将可能降低您程序的质量。但提前结束 Alpha 能让你在发行时间上击败您的对手并且给您省下一些钱。
 
-The tutorial will continue once you begin the delay phase.</Message>
-	<Message id="ALPHA WORK2">Your alpha has entered a delay phase, in which employees scramble to finish up the alpha.
+当您进入 Delay 阶段时本教程将继续。</Message>
+	<Message id="ALPHA WORK2">您已经进入 Delay 阶段。在这个阶段您的员工将继续努力完成 Alpha 的收尾。
 
-Press "Beta" to skip this stage or wait for the delay to finish and promote to beta automatically.
+按下“Beta”按钮来跳过这个阶段或等待 Delay 阶段完成自动进入 Beta 阶段。
 
-Note that prematurely promoting to beta will add extra bugs, which might take longer to fix than the delay phase takes to finish.
+请注意，若提前结束 Delay 阶段将可能添加更多的 Bug，并导致在 Beta 阶段后需要更多的时间来修复它们。
 
-The tutorial will continue once you begin the beta phase.</Message>
-	<Message id="ALPHA WORK3">Bugs are now being fixed. The amount of bugs that can be fixed depends on the competence of your employees.
+当您进入 Beta 阶段时本教程将继续。</Message>
+	<Message id="ALPHA WORK3">现在您的员工正在修复 Bugs，能够修复的 Bug 数量取决于您员工的能力。
 	
-Even the best programmer may not uncover all bugs and you'll have to deal with them after release by responding to customer support tickets.
+即使是最强的程序员也无法找到所有的 Bug。您只能在软件发行后通过顾客提交的 Bug 汇报来找到并修复剩余的 Bug。
 
-Press "Release" when you are ready.
+当准备好后，按下“发行”按钮。
 
-Press "End" to finish the tutorial.</Message>
+按下“结束”按钮结束本教程</Message>
 	<Message id="BUILD MODE1">按下“建造”按钮打开“建造模式”来开始。</Message>
 	<Message id="BUILD MODE2">在“建造模式”中，游戏将会暂停。
 
@@ -187,11 +187,11 @@ Having more than the suggested amount of employees on the development teams will
 
 当设计阶段完成时，按下“开发”按钮来进入Alpha阶段。
 
-Right click the title bar to collapse the work item.
+右键点击项目标题来取消项目。
 
-Left click the title bar to re-arrange your work items.
+左键点击项目标题来重新设计项目。
 
-Click "End" to finish the tutorial.
+点击“结束”按钮来结束教程。
 
 Click buttons to improve life.</Message>
 	<Message id="DISTRIBUTION1">Begin the distribution tutorial by opening the distribution window</Message>

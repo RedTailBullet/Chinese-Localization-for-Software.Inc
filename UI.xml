@@ -158,7 +158,7 @@
 		<Item Name="Compatibility">组内氛围</Item>
 		<Item Name="Work">工作</Item>
 		<Item Name="Employees">员工</Item>
-		<Item Name="Arrival">上班事件</Item>
+		<Item Name="Arrival">上班时间</Item>
 		<Item Name="+">+</Item>
 		<Item Name="-">-</Item>
 		<Item Name="Departure">下班时间</Item>
@@ -895,7 +895,7 @@ Loss: {5}</Item>
 		<Item Name="SheetRepairs">维修</Item>
 		<Item Name="SheetBills">账单</Item>
 		<Item Name="SheetSoftware">软件</Item>
-		<Item Name="SheetSales">促销</Item>
+		<Item Name="SheetSales">销售</Item>
 		<Item Name="SheetLicenses">许可证</Item>
 		<Item Name="SheetMarketing">市场营销</Item>
 		<Item Name="SheetContracts">合同</Item>
@@ -1061,7 +1061,7 @@ OS coverage: {1}%
 		<Item Name="ReleaseEventMsg">{0} 计划在下个月发布一款 {1} 类的产品："{2}"。</Item>
 		<Item Name="ExceptionNotificationTip">发生了一个错误！</Item>
 		<Item Name="ExceptionNotificationTip2">点击这里查看详情</Item>
-		<Item Name="ExceptionNotificationMsg">十分抱歉，刚刚发生了一个错误。这将导致游戏崩溃或不稳定。 which might cause the game to break or become unstable (Early access, right?).
+		<Item Name="ExceptionNotificationMsg">十分抱歉，刚刚发生了一个错误。这将导致游戏崩溃或不稳定。
 如果您最近存了档，我建议您关闭游戏，重新打开游戏后加载最近的存档。您当前可能无法存档。
 如果您为何发生这个错误略有头绪（您可以点击“See error”按钮来查看错误日志）并且能够重现这个错误，我们恳请您发送邮件描述错误的发生、如何重现等到 SoftwareInc@Coredumping.com 一遍我们修复错误。
 给您造成不便，我们十分抱歉！</Item>
